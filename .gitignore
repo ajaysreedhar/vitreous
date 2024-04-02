@@ -7,3 +7,9 @@
 *.img
 *.elf
 
+# Backup files
+*.old.*
+*.bak
+
+# Logs
+*.log
