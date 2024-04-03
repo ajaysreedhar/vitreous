@@ -1,0 +1,6 @@
+#ifndef VTRS_KERNEL_MMIO_H
+#define VTRS_KERNEL_MMIO_H 1
+
+#define PERIPHERAL_BASE_ADDR 0x0000B880
+
+#endif 
