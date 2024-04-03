@@ -15,4 +15,4 @@
 void mmio_write(long, unsigned int);
 unsigned int mmio_read(long);
 
-#endif
+#endif // VTRS_KERNEL_MMIO_H
