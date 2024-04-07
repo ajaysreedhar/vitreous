@@ -1,3 +1,12 @@
+/**
+ * main.c - Kernel main.
+ * 
+ * Copyright (c) 2024 Ajay Sreedhar.
+ *
+ * Licensed under GNU General Public License 3.0.
+ * See LICENSE file located in the project root for more information.
+ */
+
 #include "video.h"
 
 void main() {
