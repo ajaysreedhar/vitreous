@@ -1,2 +1,2 @@
-# vitreous
-Vitreous
+# Vitreous
+> Bare-metal Raspberry Pi Programming.
