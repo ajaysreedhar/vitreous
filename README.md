@@ -1,2 +1,2 @@
 # Vitreous
-> Bare-metal Raspberry Pi Programming.
+> Experimental/hobbyist operating system for Raspberry Pi 4.
