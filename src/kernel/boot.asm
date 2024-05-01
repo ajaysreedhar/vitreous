@@ -1,5 +1,5 @@
 /**
- * boot.asm - Bootstrap Kernel (ARM Cortex-A72 )
+ * boot.asm - Bootstrap Kernel (ARM Cortex-A72)
  * 
  * Copyright (c) 2024 Ajay Sreedhar.
  *
